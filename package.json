@@ -1,0 +1,11 @@
+{
+  "name": "stripe",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "repository": "https://github.com/wrh3rd/stripe.git",
+  "author": "William R. Hansen <wrh3rd@posteo.net>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
+}
